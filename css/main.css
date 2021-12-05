@@ -1,0 +1,61 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo{
+    width: 120px;
+    margin-left: 10px;
+}
+.bar-icon {
+font-size: 20px;
+}
+.img{
+    display: flex;
+    align-items: center;
+}
+
+
+.mr-15{
+    margin-right: 15px;
+}
+.ahsan{width: 30px;
+    border-radius: 100%;
+
+align-items: center;    
+}
+.account{
+    display: flex;
+    align-items: center;
+}
+.search-bar{
+    width: 800px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+    
+}
+.search-logo{
+    padding: 10px 20px;
+    border-radius: 100px;
+
+}
+section{
+    width: 280px;
+     height: 1000px;
+    background-color: rgb(227, 227, 231); 
+
+}
+.mra-15px{
+    margin-right: 15px;
+    font-size: 15px;
+}
+.main{
+    
+
+    border-radius: 100px;
+    border: none;
+}
+h2{
+    color: blue;
+}
